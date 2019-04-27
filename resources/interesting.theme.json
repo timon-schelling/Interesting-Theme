@@ -1,0 +1,154 @@
+{
+  "name": "Interesting",
+  "dark": true,
+  "author": "Timon Schelling",
+  "editorScheme": "/colors/interesting.xml",
+  "ui": {
+    "*": {
+      "background": "#222223",
+      "foreground": "#868784",
+
+      "infoForeground": "#868784",
+
+      "selectionBackground": "#003f65",
+      "selectionForeground": "#868784",
+      "selectionInactiveBackground": "#222223",
+      "selectionBackgroundInactive": "#222223",
+
+      "lightSelectionBackground": "#003f65",
+      "lightSelectionForeground": "#868784",
+      "lightSelectionInactiveBackground": "#222223",
+      "lightSelectionInactiveForeground":"#868784",
+
+      "disabledBackground": "#222223",
+      "inactiveBackground": "#222223",
+
+      "disabledForeground": "#727370",
+      "disabledText": "#727370",
+      "inactiveForeground": "#727370",
+
+      "errorForeground": "#9c001e",
+
+      "borderColor": "#282829",
+      "disabledBorderColor": "#282829",
+
+      "focusColor": "#222223",
+      "focusedBorderColor": "#343436",
+
+      "separatorForeground": "#343436",
+      "separatorColor": "#343436",
+      "lineSeparatorColor": "#222223",
+
+      "modifiedItemForeground": "#222223"
+    },
+
+    "Borders": {
+      "color": "#282829",
+      "ContrastBorderColor": "#282829"
+    },
+
+    "Button": {
+      "endBackground": "#3b3a3d",
+      "endBorderColor": "#3b3a3d",
+      "startBackground": "#3b3a3d",
+      "startBorderColor": "#3b3a3d",
+      "shadowWidth": 0,
+      "default": {
+        "endBackground": "#003f65",
+        "endBorderColor": "#003f65",
+        "startBackground": "#003f65",
+        "startBorderColor": "#003f65"
+      }
+    },
+
+    "EditorTabs": {
+      "selectedForeground": "#868784",
+      "selectedBackground": "#222223",
+      "underlineColor": "#003f64"
+    },
+
+    "Link": {
+      "activeForeground": "#005985",
+      "hoverForeground": "#005985",
+      "pressedForeground": "#005985",
+      "visitedForeground": "#005985"
+    },
+
+    "TabbedPane": {
+      "underlineColor": "#003f64"
+    },
+
+    "TableHeader.cellBorder": "3,0,3,0",
+
+    "Tree.rowHeight": 20,
+
+
+    "Popup": {
+      "Toolbar.background": "#222223",
+      "Header": {
+        "activeBackground": "#222223"
+      }
+    },
+
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "#001f3f",
+        "unmatchedForeground": "#868784"
+      },
+      "FileHistory.Commit.selectedBranchBackground": "#383839"
+    },
+
+    "Notification": {
+
+      "errorForeground": "#868784",
+      "errorBackground": "#222223",
+      "errorBorderColor": "#800004",
+
+      "MoreButton.innerBorderColor": "#1a1721",
+
+      "ToolWindow": {
+        "informativeForeground": "2",
+        "informativeBackground": "#2e4280",
+        "informativeBorderColor": "#17254d",
+
+        "warningForeground": "2",
+        "warningBackground": "#735822",
+        "warningBorderColor": "#403013",
+
+        "errorForeground": "2",
+        "errorBackground": "#802d43",
+        "errorBorderColor": "#4d1c2b"
+      }
+    }
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#a4a1b3",
+      "Actions.Red": "#821900",
+      "Actions.Yellow": "#ffeb00",
+      "Actions.Green": "#009245",
+      "Actions.Blue": "#006697",
+
+      "Objects.RedStatus": "#9c001e",
+      "Objects.Red": "#9b001e",
+      "Objects.Pink": "#f98b9e",
+      "Objects.Yellow": "#caba2d",
+      "Objects.Green": "#239e62",
+      "Objects.Blue": "#20a1ff",
+      "Objects.Purple": "#af71e0",
+      "Objects.BlackText": "#000000ff",
+      "Objects.YellowDark": "#988c26",
+      "Objects.GreenAndroid": "#78c257",
+
+      "Checkbox.Background.Default.Dark": "#3b3a3d",
+      "Checkbox.Border.Default.Dark": "#3b3a3d",
+      "Checkbox.Foreground.Selected.Dark": "#868784",
+      "Checkbox.Background.Disabled.Dark": "#3b3a3d",
+      "Checkbox.Border.Disabled.Dark": "#3b3a3d",
+      "Checkbox.Foreground.Disabled.Dark": "#3b3a3d",
+      "Checkbox.Foreground.Selected": "#868784",
+      "Checkbox.Focus.": "#222223"
+    }
+  }
+}
